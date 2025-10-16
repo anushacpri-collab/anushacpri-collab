@@ -1,60 +1,22 @@
-<!-- Anusha V's GitHub Profile README -->
+# Hi 👋, I'm Anusha V
 
-<h1 align="center">Hi 👋, I'm Anusha V</h1>
-<h3 align="center">A passionate student and aspiring web developer from Tamil Nadu, India</h3>
+🚀 Exploring & Building New Ideas | Frontend Developer | DSA Enthusiast  
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" /> 
-</p>
+![Coding Animation](https://raw.githubusercontent.com/NamanGIT32/NamanGIT32/main/assets/coding.gif)
 
-- 🌱 I’m currently learning **Web Development**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, MySQL**
-
-- 📫 How to reach me: [Connect on LinkedIn](https://www.linkedin.com/in/your-linkedin-url)
+- 🌱 Currently learning **Full Stack Development**
+- 💬 Ask me about **Frontend Development, React.js, and DSA**
+- 💡 Passionate about solving problems & exploring new technologies
+- 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
-### 🛠️ Languages and Tools:
-
+### 🧰 Languages and Tools:
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark" alt="Anusha's GitHub stats" />
-</p>
-
----
-
-### 🤝 Connect with me:
-
-<p>
-  <a href="https://www.linkedin.com/in/your-linkedin-url" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/woman-working-on-laptop-5626894-4695727.png" alt="coding girl illustration" width="400"/>
-</p>
+### 📊 GitHub Stats:
+![Anusha’s GitHub stats](https://github-readme-stats.vercel.app/api?username=anushacpri-collab&show_icons=true&theme=tokyonight)
