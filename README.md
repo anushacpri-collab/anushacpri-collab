@@ -1,64 +1,66 @@
-<!-- Anusha V's GitHub Profile README -->
-
 <h1 align="center">Hi 👋, I'm Anusha V</h1>
-🚀 Exploring & Building New Ideas | Frontend Developer | DSA Learner  
 
-<img align="center" alt="Coding" width="100%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGsyZGp0c3JzbXB6NzJreG1zdjdrOGM1bXdydW9wZ3VrczJjZmJ3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" />
-
-
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" /> 
-</p>
-
-- 🌱 I’m currently learning **Web Development**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, MySQL**
-
-- 📫 How to reach me: [Connect on LinkedIn](https://www.linkedin.com/in/your-linkedin-url)
+<h3 align="center">💻 Web Developer | Frontend Enthusiast | UI/UX Explorer</h3>
 
 ---
 
-### 🛠️ Languages and Tools:
-
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="60%" align="left" valign="top">
+      <p style="font-size:18px;">
+        👩‍💻 I’m a passionate <b>Web Developer</b> dedicated to building modern, responsive, and user-focused websites.<br><br>
+        🌱 Currently enhancing my skills in <b>React.js, TypeScript, and Tailwind CSS</b>.<br><br>
+        🎨 I love transforming creative ideas into functional and interactive digital experiences.<br><br>
+        🔧 Skilled in crafting clean, scalable, and accessible front-end solutions.<br><br>
+        🚀 I’m also learning backend integration and deployment to become a full-fledged web developer.<br><br>
+        📫 Reach me at: <a href="mailto:your-email@example.com">your-email@example.com</a><br><br>
+        ⚡ Fun fact: I enjoy experimenting with design systems and animation effects to enhance user interaction.
+      </p>
+    </td>
+    <td width="40%" align="right">
+      <img align="right" alt="Coding" width="350" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGsyZGp0c3JzbXB6NzJreG1zdjdrOGM1bXdydW9wZ3VrczJjZmJ3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
-
+### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark" alt="Anusha's GitHub stats" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,figma" />
 </p>
 
 ---
 
-### 🤝 Connect with me:
-
-<p>
-  <a href="https://www.linkedin.com/in/your-linkedin-url" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
+### 🌐 My Web Development Interests
+- Building responsive and performance-optimized websites  
+- Creating visually stunning user interfaces with seamless UX  
+- Integrating APIs and backend services  
+- Deploying and maintaining full-stack web apps  
+- Exploring new frontend libraries and frameworks  
 
 ---
 
+### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/woman-working-on-laptop-5626894-4695727.png" alt="coding girl illustration" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anushav&show_icons=true&theme=tokyonight" alt="Anusha's GitHub stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushav&theme=tokyonight" alt="GitHub Streak" width="400"/>
+</p>
+
+---
+
+### 🌟 Featured Projects
+🔹 **Portfolio Website** — A personal site showcasing my projects and design skills  
+🔹 **Responsive Landing Page** — Built with React and Tailwind CSS  
+🔹 **Weather App** — Fetches live data from OpenWeather API  
+🔹 **E-commerce UI Clone** — A modern interface built for learning product listing & cart flow  
+
+---
+
+### 📫 Connect With Me
+<p align="left">
+  <a href="mailto:your-email@example.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" /></a>
+  <a href="https://github.com/anushav"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.icons8.com/color/48/000000/domain.png" width="40" /></a>
 </p>
