@@ -13,7 +13,7 @@
         🎨 I love transforming creative ideas into functional and interactive digital experiences.<br><br>
         🔧 Skilled in crafting clean, scalable, and accessible front-end solutions.<br><br>
         🚀 I’m also learning backend integration and deployment to become a full-fledged web developer.<br><br>
-        📫 Reach me at: <a href="mailto:your-email@example.com">your-email@example.com</a><br><br>
+        📫 Reach me at: <a href="anusha.cpri@gamil.com">anusha.cpri@gmail.com</a><br><br>
         ⚡ Fun fact: I enjoy experimenting with design systems and animation effects to enhance user interaction.
       </p>
     </td>
