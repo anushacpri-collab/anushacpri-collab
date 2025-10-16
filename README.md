@@ -1,7 +1,10 @@
 <!-- Anusha V's GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Anusha V</h1>
-<h3 align="center">A passionate student and aspiring web developer from Tamil Nadu, India</h3>
+🚀 Exploring & Building New Ideas | Frontend Developer | DSA Learner  
+
+![Coding Animation]([https://raw.githubusercontent.com/NamanGIT32/NamanGIT32/main/assets/coding.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGsyZGp0c3JzbXB6NzJreG1zdjdrOGM1bXdydW9wZ3VrczJjZmJ3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif))
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" /> 
