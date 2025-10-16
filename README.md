@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Anusha V</h1>
 🚀 Exploring & Building New Ideas | Frontend Developer | DSA Learner  
 
-![Coding Animation]([https://raw.githubusercontent.com/NamanGIT32/NamanGIT32/main/assets/coding.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGsyZGp0c3JzbXB6NzJreG1zdjdrOGM1bXdydW9wZ3VrczJjZmJ3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif))
+<img align="center" alt="Coding" width="100%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGsyZGp0c3JzbXB6NzJreG1zdjdrOGM1bXdydW9wZ3VrczJjZmJ3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" />
+
 
 
 <p align="left"> 
